@@ -9,7 +9,7 @@ This repository contains an Angular 20 standalone application that provides a ba
 - Searching patients and viewing patient data
 - Displaying patient vitals and core app navigation
 
-The app uses Angular standalone components and communicates with a backend API located at `http://3.131.105.103:8110/api` by default.
+The app uses Angular standalone components and communicates with a backend API located at `https://<YOUR_BACKEND_DOMAIN>/api` by default.
 
 ## Key Features
 
