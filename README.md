@@ -50,7 +50,7 @@ http://localhost:4200
 The frontend expects a backend API at:
 
 ```text
-http://3.131.105.103:8110/api
+https://<YOUR_BACKEND_DOMAIN>/api
 ```
 
 Update the URL in `src/services/common.ts` if your API is hosted elsewhere.
